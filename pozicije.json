@@ -5022,7 +5022,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f61b"),
 		"datum" : ISODate("2024-09-03T16:08:37Z"),
-		"brzina" : 78,
+		"brzina" : 72,
 		"koordinate" : [
 			15.9171166,
 			48.154565
@@ -5032,7 +5032,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f61c"),
 		"datum" : ISODate("2024-09-03T16:09:24Z"),
-		"brzina" : 82,
+		"brzina" : 73,
 		"koordinate" : [
 			15.9034066,
 			48.1537716
@@ -5052,7 +5052,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f61e"),
 		"datum" : ISODate("2024-09-03T16:11:01Z"),
-		"brzina" : 73,
+		"brzina" : 75,
 		"koordinate" : [
 			15.8847466,
 			48.1656383
@@ -5062,7 +5062,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f61f"),
 		"datum" : ISODate("2024-09-03T16:11:55Z"),
-		"brzina" : 72,
+		"brzina" : 75,
 		"koordinate" : [
 			15.87515,
 			48.1721483
@@ -5072,7 +5072,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f620"),
 		"datum" : ISODate("2024-09-03T16:12:48Z"),
-		"brzina" : 74,
+		"brzina" : 78,
 		"koordinate" : [
 			15.8616316,
 			48.1735583
@@ -5092,7 +5092,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f622"),
 		"datum" : ISODate("2024-09-03T16:14:19Z"),
-		"brzina" : 85,
+		"brzina" : 80,
 		"koordinate" : [
 			15.834995,
 			48.1766966
@@ -5102,7 +5102,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f623"),
 		"datum" : ISODate("2024-09-03T16:15:01Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			15.8220933,
 			48.1799783
@@ -5112,7 +5112,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f624"),
 		"datum" : ISODate("2024-09-03T16:15:44Z"),
-		"brzina" : 86,
+		"brzina" : 82,
 		"koordinate" : [
 			15.8100716,
 			48.1843783
@@ -5122,7 +5122,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f625"),
 		"datum" : ISODate("2024-09-03T16:16:29Z"),
-		"brzina" : 80,
+		"brzina" : 84,
 		"koordinate" : [
 			15.79643,
 			48.1854066
@@ -5132,7 +5132,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f626"),
 		"datum" : ISODate("2024-09-03T16:17:13Z"),
-		"brzina" : 87,
+		"brzina" : 85,
 		"koordinate" : [
 			15.7827166,
 			48.1847083
@@ -5142,7 +5142,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f627"),
 		"datum" : ISODate("2024-09-03T16:17:56Z"),
-		"brzina" : 88,
+		"brzina" : 85,
 		"koordinate" : [
 			15.7688933,
 			48.1846233
@@ -5162,7 +5162,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f629"),
 		"datum" : ISODate("2024-09-03T16:19:21Z"),
-		"brzina" : 85,
+		"brzina" : 87,
 		"koordinate" : [
 			15.7415366,
 			48.1865166
@@ -5182,7 +5182,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f62b"),
 		"datum" : ISODate("2024-09-03T16:20:46Z"),
-		"brzina" : 82,
+		"brzina" : 87,
 		"koordinate" : [
 			15.7141433,
 			48.1861249
@@ -5192,7 +5192,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f62c"),
 		"datum" : ISODate("2024-09-03T16:21:29Z"),
-		"brzina" : 84,
+		"brzina" : 88,
 		"koordinate" : [
 			15.70063,
 			48.1851716
@@ -5212,7 +5212,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f62e"),
 		"datum" : ISODate("2024-09-03T16:22:54Z"),
-		"brzina" : 82,
+		"brzina" : 85,
 		"koordinate" : [
 			15.67378,
 			48.1837533
@@ -5222,7 +5222,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f62f"),
 		"datum" : ISODate("2024-09-03T16:23:35Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			15.6614816,
 			48.1797116
@@ -5232,7 +5232,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f630"),
 		"datum" : ISODate("2024-09-03T16:24:17Z"),
-		"brzina" : 86,
+		"brzina" : 75,
 		"koordinate" : [
 			15.6488166,
 			48.17651
@@ -5242,7 +5242,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f631"),
 		"datum" : ISODate("2024-09-03T16:24:59Z"),
-		"brzina" : 85,
+		"brzina" : 75,
 		"koordinate" : [
 			15.63532,
 			48.176305
@@ -5252,7 +5252,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f632"),
 		"datum" : ISODate("2024-09-03T16:25:41Z"),
-		"brzina" : 86,
+		"brzina" : 76,
 		"koordinate" : [
 			15.621655,
 			48.176905
@@ -5262,7 +5262,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f633"),
 		"datum" : ISODate("2024-09-03T16:26:22Z"),
-		"brzina" : 90,
+		"brzina" : 77,
 		"koordinate" : [
 			15.6081066,
 			48.1774983
@@ -5272,7 +5272,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f634"),
 		"datum" : ISODate("2024-09-03T16:27:05Z"),
-		"brzina" : 85,
+		"brzina" : 75,
 		"koordinate" : [
 			15.5944149,
 			48.1779983
@@ -5282,7 +5282,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f635"),
 		"datum" : ISODate("2024-09-03T16:27:48Z"),
-		"brzina" : 88,
+		"brzina" : 78,
 		"koordinate" : [
 			15.5808149,
 			48.177625
@@ -5292,7 +5292,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f636"),
 		"datum" : ISODate("2024-09-03T16:28:30Z"),
-		"brzina" : 87,
+		"brzina" : 77,
 		"koordinate" : [
 			15.5673216,
 			48.1772516
@@ -5302,7 +5302,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f637"),
 		"datum" : ISODate("2024-09-03T16:29:12Z"),
-		"brzina" : 91,
+		"brzina" : 81,
 		"koordinate" : [
 			15.55359,
 			48.1781666
@@ -5312,7 +5312,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f638"),
 		"datum" : ISODate("2024-09-03T16:29:50Z"),
-		"brzina" : 93,
+		"brzina" : 83,
 		"koordinate" : [
 			15.5400866,
 			48.1768666
@@ -5322,7 +5322,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f639"),
 		"datum" : ISODate("2024-09-03T16:30:30Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			15.5271033,
 			48.1740433
@@ -5342,7 +5342,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f63b"),
 		"datum" : ISODate("2024-09-03T16:31:55Z"),
-		"brzina" : 87,
+		"brzina" : 83,
 		"koordinate" : [
 			15.5011916,
 			48.1685083
@@ -5352,7 +5352,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f63c"),
 		"datum" : ISODate("2024-09-03T16:32:36Z"),
-		"brzina" : 95,
+		"brzina" : 85,
 		"koordinate" : [
 			15.487395,
 			48.1690783
@@ -5362,7 +5362,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f63d"),
 		"datum" : ISODate("2024-09-03T16:33:14Z"),
-		"brzina" : 92,
+		"brzina" : 82,
 		"koordinate" : [
 			15.47445,
 			48.1718066
@@ -5372,7 +5372,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f63e"),
 		"datum" : ISODate("2024-09-03T16:33:54Z"),
-		"brzina" : 89,
+		"brzina" : 80,
 		"koordinate" : [
 			15.4628766,
 			48.1764599
@@ -5382,7 +5382,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f63f"),
 		"datum" : ISODate("2024-09-03T16:34:36Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			15.4508583,
 			48.1810149
@@ -5392,7 +5392,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f640"),
 		"datum" : ISODate("2024-09-03T16:35:17Z"),
-		"brzina" : 85,
+		"brzina" : 80,
 		"koordinate" : [
 			15.4381633,
 			48.184445
@@ -5402,7 +5402,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f641"),
 		"datum" : ISODate("2024-09-03T16:35:57Z"),
-		"brzina" : 95,
+		"brzina" : 78,
 		"koordinate" : [
 			15.4251616,
 			48.1870433
@@ -5412,7 +5412,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f642"),
 		"datum" : ISODate("2024-09-03T16:36:38Z"),
-		"brzina" : 84,
+		"brzina" : 76,
 		"koordinate" : [
 			15.4116033,
 			48.1880216
@@ -5422,7 +5422,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f643"),
 		"datum" : ISODate("2024-09-03T16:37:20Z"),
-		"brzina" : 89,
+		"brzina" : 75,
 		"koordinate" : [
 			15.3980533,
 			48.1893133
@@ -5432,7 +5432,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f644"),
 		"datum" : ISODate("2024-09-03T16:38:01Z"),
-		"brzina" : 90,
+		"brzina" : 73,
 		"koordinate" : [
 			15.385865,
 			48.1932066
@@ -5442,7 +5442,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f645"),
 		"datum" : ISODate("2024-09-03T16:38:42Z"),
-		"brzina" : 90,
+		"brzina" : 72,
 		"koordinate" : [
 			15.3738283,
 			48.1976599
@@ -5452,7 +5452,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f646"),
 		"datum" : ISODate("2024-09-03T16:39:23Z"),
-		"brzina" : 90,
+		"brzina" : 70,
 		"koordinate" : [
 			15.36483,
 			48.2044616
@@ -5462,7 +5462,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f647"),
 		"datum" : ISODate("2024-09-03T16:40:04Z"),
-		"brzina" : 90,
+		"brzina" : 70,
 		"koordinate" : [
 			15.3592366,
 			48.2127166
@@ -5472,7 +5472,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f648"),
 		"datum" : ISODate("2024-09-03T16:40:46Z"),
-		"brzina" : 86,
+		"brzina" : 70,
 		"koordinate" : [
 			15.3470083,
 			48.216635
@@ -5482,7 +5482,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f649"),
 		"datum" : ISODate("2024-09-03T16:41:29Z"),
-		"brzina" : 85,
+		"brzina" : 70,
 		"koordinate" : [
 			15.3334316,
 			48.21759
@@ -5492,7 +5492,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64a"),
 		"datum" : ISODate("2024-09-03T16:42:12Z"),
-		"brzina" : 81,
+		"brzina" : 70,
 		"koordinate" : [
 			15.3198266,
 			48.2165266
@@ -5502,7 +5502,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64b"),
 		"datum" : ISODate("2024-09-03T16:42:56Z"),
-		"brzina" : 86,
+		"brzina" : 72,
 		"koordinate" : [
 			15.3066966,
 			48.2137033
@@ -5512,7 +5512,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64c"),
 		"datum" : ISODate("2024-09-03T16:43:40Z"),
-		"brzina" : 84,
+		"brzina" : 73,
 		"koordinate" : [
 			15.2934416,
 			48.21543
@@ -5522,7 +5522,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64d"),
 		"datum" : ISODate("2024-09-03T16:44:23Z"),
-		"brzina" : 86,
+		"brzina" : 74,
 		"koordinate" : [
 			15.280845,
 			48.2119283
@@ -5532,7 +5532,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64e"),
 		"datum" : ISODate("2024-09-03T16:45:06Z"),
-		"brzina" : 86,
+		"brzina" : 75,
 		"koordinate" : [
 			15.2700516,
 			48.20632
@@ -5542,7 +5542,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f64f"),
 		"datum" : ISODate("2024-09-03T16:45:48Z"),
-		"brzina" : 84,
+		"brzina" : 74,
 		"koordinate" : [
 			15.25948,
 			48.2005933
@@ -5552,7 +5552,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f650"),
 		"datum" : ISODate("2024-09-03T16:46:31Z"),
-		"brzina" : 84,
+		"brzina" : 74,
 		"koordinate" : [
 			15.2466116,
 			48.19743
@@ -5562,7 +5562,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f651"),
 		"datum" : ISODate("2024-09-03T16:47:13Z"),
-		"brzina" : 84,
+		"brzina" : 75,
 		"koordinate" : [
 			15.233045,
 			48.1983283
@@ -5572,7 +5572,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f652"),
 		"datum" : ISODate("2024-09-03T16:47:55Z"),
-		"brzina" : 89,
+		"brzina" : 74,
 		"koordinate" : [
 			15.2198399,
 			48.1956833
@@ -5582,7 +5582,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f653"),
 		"datum" : ISODate("2024-09-03T16:48:37Z"),
-		"brzina" : 90,
+		"brzina" : 74,
 		"koordinate" : [
 			15.2068366,
 			48.1927283
@@ -5592,7 +5592,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f654"),
 		"datum" : ISODate("2024-09-03T16:49:19Z"),
-		"brzina" : 86,
+		"brzina" : 73,
 		"koordinate" : [
 			15.19473,
 			48.1884483
@@ -5602,7 +5602,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f655"),
 		"datum" : ISODate("2024-09-03T16:50:02Z"),
-		"brzina" : 82,
+		"brzina" : 72,
 		"koordinate" : [
 			15.187675,
 			48.18069
@@ -5612,7 +5612,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f656"),
 		"datum" : ISODate("2024-09-03T16:50:47Z"),
-		"brzina" : 84,
+		"brzina" : 71,
 		"koordinate" : [
 			15.1812316,
 			48.1726249
@@ -5622,7 +5622,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f657"),
 		"datum" : ISODate("2024-09-03T16:51:27Z"),
-		"brzina" : 90,
+		"brzina" : 70,
 		"koordinate" : [
 			15.1695366,
 			48.1679599
@@ -5632,7 +5632,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f658"),
 		"datum" : ISODate("2024-09-03T16:52:10Z"),
-		"brzina" : 89,
+		"brzina" : 69,
 		"koordinate" : [
 			15.1573666,
 			48.1636133
@@ -5642,7 +5642,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f659"),
 		"datum" : ISODate("2024-09-03T16:52:53Z"),
-		"brzina" : 91,
+		"brzina" : 68,
 		"koordinate" : [
 			15.1439066,
 			48.1616133
@@ -5652,7 +5652,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65a"),
 		"datum" : ISODate("2024-09-03T16:53:33Z"),
-		"brzina" : 94,
+		"brzina" : 66,
 		"koordinate" : [
 			15.1302699,
 			48.160745
@@ -5662,7 +5662,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65b"),
 		"datum" : ISODate("2024-09-03T16:54:12Z"),
-		"brzina" : 94,
+		"brzina" : 64,
 		"koordinate" : [
 			15.1167316,
 			48.1597849
@@ -5672,7 +5672,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65c"),
 		"datum" : ISODate("2024-09-03T16:54:52Z"),
-		"brzina" : 88,
+		"brzina" : 65,
 		"koordinate" : [
 			15.1041866,
 			48.1563449
@@ -5682,7 +5682,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65d"),
 		"datum" : ISODate("2024-09-03T16:55:32Z"),
-		"brzina" : 87,
+		"brzina" : 67,
 		"koordinate" : [
 			15.0928866,
 			48.151415
@@ -5692,7 +5692,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65e"),
 		"datum" : ISODate("2024-09-03T16:56:14Z"),
-		"brzina" : 85,
+		"brzina" : 65,
 		"koordinate" : [
 			15.081565,
 			48.1464533
@@ -5702,7 +5702,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f65f"),
 		"datum" : ISODate("2024-09-03T16:56:55Z"),
-		"brzina" : 86,
+		"brzina" : 66,
 		"koordinate" : [
 			15.0701483,
 			48.1414633
@@ -5712,7 +5712,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f660"),
 		"datum" : ISODate("2024-09-03T16:57:37Z"),
-		"brzina" : 85,
+		"brzina" : 65,
 		"koordinate" : [
 			15.0587133,
 			48.1365433
@@ -5722,7 +5722,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f661"),
 		"datum" : ISODate("2024-09-03T16:58:20Z"),
-		"brzina" : 86,
+		"brzina" : 66,
 		"koordinate" : [
 			15.0458683,
 			48.1333466
@@ -5732,7 +5732,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f662"),
 		"datum" : ISODate("2024-09-03T16:59:02Z"),
-		"brzina" : 84,
+		"brzina" : 64,
 		"koordinate" : [
 			15.0326716,
 			48.1314483
@@ -5742,7 +5742,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f663"),
 		"datum" : ISODate("2024-09-03T16:59:45Z"),
-		"brzina" : 87,
+		"brzina" : 64,
 		"koordinate" : [
 			15.0192583,
 			48.1295366
@@ -5752,7 +5752,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f664"),
 		"datum" : ISODate("2024-09-03T17:00:28Z"),
-		"brzina" : 86,
+		"brzina" : 64,
 		"koordinate" : [
 			15.0057699,
 			48.1293283
@@ -5762,7 +5762,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f665"),
 		"datum" : ISODate("2024-09-03T17:01:11Z"),
-		"brzina" : 88,
+		"brzina" : 63,
 		"koordinate" : [
 			14.9931716,
 			48.1328866
@@ -5772,7 +5772,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f666"),
 		"datum" : ISODate("2024-09-03T17:01:55Z"),
-		"brzina" : 89,
+		"brzina" : 62,
 		"koordinate" : [
 			14.9803649,
 			48.1361383
@@ -5782,7 +5782,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f667"),
 		"datum" : ISODate("2024-09-03T17:02:37Z"),
-		"brzina" : 83,
+		"brzina" : 62,
 		"koordinate" : [
 			14.9669566,
 			48.137735
@@ -5792,7 +5792,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f668"),
 		"datum" : ISODate("2024-09-03T17:03:21Z"),
-		"brzina" : 88,
+		"brzina" : 63,
 		"koordinate" : [
 			14.9534416,
 			48.1390233
@@ -5802,7 +5802,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f669"),
 		"datum" : ISODate("2024-09-03T17:04:01Z"),
-		"brzina" : 90,
+		"brzina" : 64,
 		"koordinate" : [
 			14.93994,
 			48.13866
@@ -5812,7 +5812,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66a"),
 		"datum" : ISODate("2024-09-03T17:04:44Z"),
-		"brzina" : 83,
+		"brzina" : 65,
 		"koordinate" : [
 			14.926265,
 			48.1394383
@@ -5822,7 +5822,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66b"),
 		"datum" : ISODate("2024-09-03T17:05:27Z"),
-		"brzina" : 82,
+		"brzina" : 65,
 		"koordinate" : [
 			14.91529,
 			48.1446999
@@ -5832,7 +5832,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66c"),
 		"datum" : ISODate("2024-09-03T17:06:13Z"),
-		"brzina" : 82,
+		"brzina" : 65,
 		"koordinate" : [
 			14.9022283,
 			48.1471883
@@ -5842,7 +5842,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66d"),
 		"datum" : ISODate("2024-09-03T17:06:56Z"),
-		"brzina" : 87,
+		"brzina" : 67,
 		"koordinate" : [
 			14.8886483,
 			48.14672
@@ -5852,7 +5852,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66e"),
 		"datum" : ISODate("2024-09-03T17:07:37Z"),
-		"brzina" : 87,
+		"brzina" : 67,
 		"koordinate" : [
 			14.8751383,
 			48.1462466
@@ -5862,7 +5862,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f66f"),
 		"datum" : ISODate("2024-09-03T17:08:19Z"),
-		"brzina" : 87,
+		"brzina" : 65,
 		"koordinate" : [
 			14.8614866,
 			48.14552
@@ -5872,7 +5872,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f670"),
 		"datum" : ISODate("2024-09-03T17:09:03Z"),
-		"brzina" : 83,
+		"brzina" : 63,
 		"koordinate" : [
 			14.8491666,
 			48.1416816
@@ -5882,7 +5882,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f671"),
 		"datum" : ISODate("2024-09-03T17:09:47Z"),
-		"brzina" : 83,
+		"brzina" : 63,
 		"koordinate" : [
 			14.8379583,
 			48.136345
@@ -5892,7 +5892,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f672"),
 		"datum" : ISODate("2024-09-03T17:10:33Z"),
-		"brzina" : 82,
+		"brzina" : 62,
 		"koordinate" : [
 			14.8275466,
 			48.1303716
@@ -5902,7 +5902,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f673"),
 		"datum" : ISODate("2024-09-03T17:11:19Z"),
-		"brzina" : 79,
+		"brzina" : 61,
 		"koordinate" : [
 			14.8173133,
 			48.1242549
@@ -5912,7 +5912,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f674"),
 		"datum" : ISODate("2024-09-03T17:12:04Z"),
-		"brzina" : 87,
+		"brzina" : 59,
 		"koordinate" : [
 			14.8050216,
 			48.1201633
@@ -5922,7 +5922,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f675"),
 		"datum" : ISODate("2024-09-03T17:12:48Z"),
-		"brzina" : 83,
+		"brzina" : 58,
 		"koordinate" : [
 			14.7913416,
 			48.1198316
@@ -5932,7 +5932,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f676"),
 		"datum" : ISODate("2024-09-03T17:13:33Z"),
-		"brzina" : 79,
+		"brzina" : 58,
 		"koordinate" : [
 			14.7777083,
 			48.11885
@@ -5942,7 +5942,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f677"),
 		"datum" : ISODate("2024-09-03T17:14:17Z"),
-		"brzina" : 87,
+		"brzina" : 59,
 		"koordinate" : [
 			14.7642783,
 			48.1209066
@@ -5952,7 +5952,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f678"),
 		"datum" : ISODate("2024-09-03T17:15:02Z"),
-		"brzina" : 81,
+		"brzina" : 57,
 		"koordinate" : [
 			14.7505966,
 			48.1208583
@@ -5962,7 +5962,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f679"),
 		"datum" : ISODate("2024-09-03T17:15:45Z"),
-		"brzina" : 86,
+		"brzina" : 57,
 		"koordinate" : [
 			14.7376333,
 			48.1180149
@@ -5972,7 +5972,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67a"),
 		"datum" : ISODate("2024-09-03T17:16:26Z"),
-		"brzina" : 88,
+		"brzina" : 57,
 		"koordinate" : [
 			14.724415,
 			48.1161483
@@ -5982,7 +5982,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67b"),
 		"datum" : ISODate("2024-09-03T17:17:06Z"),
-		"brzina" : 86,
+		"brzina" : 56,
 		"koordinate" : [
 			14.7108966,
 			48.1157533
@@ -5992,7 +5992,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67c"),
 		"datum" : ISODate("2024-09-03T17:17:52Z"),
-		"brzina" : 81,
+		"brzina" : 56,
 		"koordinate" : [
 			14.6972616,
 			48.1134199
@@ -6002,7 +6002,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67d"),
 		"datum" : ISODate("2024-09-03T17:18:36Z"),
-		"brzina" : 76,
+		"brzina" : 56,
 		"koordinate" : [
 			14.6838233,
 			48.1120616
@@ -6012,7 +6012,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67e"),
 		"datum" : ISODate("2024-09-03T17:19:20Z"),
-		"brzina" : 83,
+		"brzina" : 56,
 		"koordinate" : [
 			14.67041,
 			48.1132233
@@ -6022,7 +6022,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f67f"),
 		"datum" : ISODate("2024-09-03T17:20:03Z"),
-		"brzina" : 85,
+		"brzina" : 55,
 		"koordinate" : [
 			14.6577183,
 			48.1162566
@@ -6032,7 +6032,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f680"),
 		"datum" : ISODate("2024-09-03T17:20:45Z"),
-		"brzina" : 83,
+		"brzina" : 54,
 		"koordinate" : [
 			14.6447033,
 			48.1186466
@@ -6042,7 +6042,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f681"),
 		"datum" : ISODate("2024-09-03T17:21:30Z"),
-		"brzina" : 82,
+		"brzina" : 54,
 		"koordinate" : [
 			14.632,
 			48.1156266
@@ -6052,7 +6052,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f682"),
 		"datum" : ISODate("2024-09-03T17:22:15Z"),
-		"brzina" : 88,
+		"brzina" : 54,
 		"koordinate" : [
 			14.6197633,
 			48.119615
@@ -6062,7 +6062,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f683"),
 		"datum" : ISODate("2024-09-03T17:22:57Z"),
-		"brzina" : 83,
+		"brzina" : 53,
 		"koordinate" : [
 			14.61057,
 			48.126275
@@ -6072,7 +6072,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f684"),
 		"datum" : ISODate("2024-09-03T17:23:41Z"),
-		"brzina" : 87,
+		"brzina" : 53,
 		"koordinate" : [
 			14.598805,
 			48.1307749
@@ -6082,7 +6082,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f685"),
 		"datum" : ISODate("2024-09-03T17:24:23Z"),
-		"brzina" : 85,
+		"brzina" : 53,
 		"koordinate" : [
 			14.5865216,
 			48.1345633
@@ -6092,7 +6092,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f686"),
 		"datum" : ISODate("2024-09-03T17:25:04Z"),
-		"brzina" : 89,
+		"brzina" : 48,
 		"koordinate" : [
 			14.57761,
 			48.1415366
@@ -6102,7 +6102,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f687"),
 		"datum" : ISODate("2024-09-03T17:25:46Z"),
-		"brzina" : 84,
+		"brzina" : 40,
 		"koordinate" : [
 			14.5671266,
 			48.1474783
@@ -6112,7 +6112,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f688"),
 		"datum" : ISODate("2024-09-03T17:26:28Z"),
-		"brzina" : 91,
+		"brzina" : 37,
 		"koordinate" : [
 			14.5588416,
 			48.1547016
@@ -6122,7 +6122,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f689"),
 		"datum" : ISODate("2024-09-03T17:27:07Z"),
-		"brzina" : 96,
+		"brzina" : 34,
 		"koordinate" : [
 			14.5534266,
 			48.1630833
@@ -6132,7 +6132,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68a"),
 		"datum" : ISODate("2024-09-03T17:27:44Z"),
-		"brzina" : 90,
+		"brzina" : 34,
 		"koordinate" : [
 			14.5487949,
 			48.1715366
@@ -6142,7 +6142,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68b"),
 		"datum" : ISODate("2024-09-03T17:28:23Z"),
-		"brzina" : 95,
+		"brzina" : 32,
 		"koordinate" : [
 			14.5438016,
 			48.1800783
@@ -6152,7 +6152,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68c"),
 		"datum" : ISODate("2024-09-03T17:29:04Z"),
-		"brzina" : 96,
+		"brzina" : 27,
 		"koordinate" : [
 			14.534705,
 			48.1869049
@@ -6162,7 +6162,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68d"),
 		"datum" : ISODate("2024-09-03T17:29:42Z"),
-		"brzina" : 92,
+		"brzina" : 25,
 		"koordinate" : [
 			14.52519,
 			48.1934016
@@ -6172,7 +6172,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68e"),
 		"datum" : ISODate("2024-09-03T17:30:23Z"),
-		"brzina" : 86,
+		"brzina" : 30,
 		"koordinate" : [
 			14.5137083,
 			48.1984916
@@ -6182,7 +6182,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f68f"),
 		"datum" : ISODate("2024-09-03T17:31:05Z"),
-		"brzina" : 86,
+		"brzina" : 34,
 		"koordinate" : [
 			14.5000583,
 			48.1998766
@@ -6192,7 +6192,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f690"),
 		"datum" : ISODate("2024-09-03T17:31:48Z"),
-		"brzina" : 85,
+		"brzina" : 38,
 		"koordinate" : [
 			14.486415,
 			48.2012883
@@ -6202,7 +6202,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f691"),
 		"datum" : ISODate("2024-09-03T17:32:31Z"),
-		"brzina" : 80,
+		"brzina" : 42,
 		"koordinate" : [
 			14.4729816,
 			48.2026049
@@ -6212,7 +6212,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f692"),
 		"datum" : ISODate("2024-09-03T17:33:16Z"),
-		"brzina" : 79,
+		"brzina" : 46,
 		"koordinate" : [
 			14.459695,
 			48.2049983
@@ -6222,7 +6222,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f693"),
 		"datum" : ISODate("2024-09-03T17:34:00Z"),
-		"brzina" : 93,
+		"brzina" : 48,
 		"koordinate" : [
 			14.4461533,
 			48.2066766
@@ -6232,7 +6232,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f694"),
 		"datum" : ISODate("2024-09-03T17:34:40Z"),
-		"brzina" : 91,
+		"brzina" : 50,
 		"koordinate" : [
 			14.43283,
 			48.2090283
@@ -6242,7 +6242,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f695"),
 		"datum" : ISODate("2024-09-03T17:35:21Z"),
-		"brzina" : 90,
+		"brzina" : 50,
 		"koordinate" : [
 			14.4207666,
 			48.21341
@@ -6252,7 +6252,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f696"),
 		"datum" : ISODate("2024-09-03T17:36:03Z"),
-		"brzina" : 83,
+		"brzina" : 53,
 		"koordinate" : [
 			14.4087966,
 			48.2177183
@@ -6262,7 +6262,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f697"),
 		"datum" : ISODate("2024-09-03T17:36:47Z"),
-		"brzina" : 86,
+		"brzina" : 56,
 		"koordinate" : [
 			14.3970033,
 			48.2223816
@@ -6272,7 +6272,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f698"),
 		"datum" : ISODate("2024-09-03T17:37:30Z"),
-		"brzina" : 85,
+		"brzina" : 55,
 		"koordinate" : [
 			14.38661,
 			48.2283233
@@ -6282,7 +6282,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f699"),
 		"datum" : ISODate("2024-09-03T17:38:15Z"),
-		"brzina" : 79,
+		"brzina" : 57,
 		"koordinate" : [
 			14.3754233,
 			48.2334983
@@ -6292,7 +6292,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69a"),
 		"datum" : ISODate("2024-09-03T17:39:00Z"),
-		"brzina" : 81,
+		"brzina" : 57,
 		"koordinate" : [
 			14.3621116,
 			48.23574
@@ -6302,7 +6302,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69b"),
 		"datum" : ISODate("2024-09-03T17:39:42Z"),
-		"brzina" : 91,
+		"brzina" : 58,
 		"koordinate" : [
 			14.3484416,
 			48.2367816
@@ -6312,7 +6312,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69c"),
 		"datum" : ISODate("2024-09-03T17:40:23Z"),
-		"brzina" : 85,
+		"brzina" : 58,
 		"koordinate" : [
 			14.3348433,
 			48.2353249
@@ -6322,7 +6322,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69d"),
 		"datum" : ISODate("2024-09-03T17:41:04Z"),
-		"brzina" : 92,
+		"brzina" : 58,
 		"koordinate" : [
 			14.3218916,
 			48.232355
@@ -6332,7 +6332,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69e"),
 		"datum" : ISODate("2024-09-03T17:41:44Z"),
-		"brzina" : 83,
+		"brzina" : 58,
 		"koordinate" : [
 			14.3107666,
 			48.2270416
@@ -6342,7 +6342,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f69f"),
 		"datum" : ISODate("2024-09-03T17:42:25Z"),
-		"brzina" : 97,
+		"brzina" : 57,
 		"koordinate" : [
 			14.2995983,
 			48.2216583
@@ -6352,7 +6352,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a0"),
 		"datum" : ISODate("2024-09-03T17:43:06Z"),
-		"brzina" : 85,
+		"brzina" : 57,
 		"koordinate" : [
 			14.288435,
 			48.216325
@@ -6362,7 +6362,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a1"),
 		"datum" : ISODate("2024-09-03T17:43:47Z"),
-		"brzina" : 90,
+		"brzina" : 60,
 		"koordinate" : [
 			14.2771183,
 			48.2113316
@@ -6372,7 +6372,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a2"),
 		"datum" : ISODate("2024-09-03T17:44:27Z"),
-		"brzina" : 92,
+		"brzina" : 60,
 		"koordinate" : [
 			14.2657116,
 			48.2062866
@@ -6382,7 +6382,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a3"),
 		"datum" : ISODate("2024-09-03T17:45:07Z"),
-		"brzina" : 92,
+		"brzina" : 60,
 		"koordinate" : [
 			14.25429,
 			48.201195
@@ -6392,7 +6392,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a4"),
 		"datum" : ISODate("2024-09-03T17:45:49Z"),
-		"brzina" : 84,
+		"brzina" : 60,
 		"koordinate" : [
 			14.2431766,
 			48.1958449
@@ -6402,7 +6402,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a5"),
 		"datum" : ISODate("2024-09-03T17:46:33Z"),
-		"brzina" : 87,
+		"brzina" : 60,
 		"koordinate" : [
 			14.2305833,
 			48.1925949
@@ -6412,7 +6412,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a6"),
 		"datum" : ISODate("2024-09-03T17:47:15Z"),
-		"brzina" : 86,
+		"brzina" : 60,
 		"koordinate" : [
 			14.21783,
 			48.1959583
@@ -6422,7 +6422,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a7"),
 		"datum" : ISODate("2024-09-03T17:47:59Z"),
-		"brzina" : 84,
+		"brzina" : 60,
 		"koordinate" : [
 			14.20426,
 			48.1974833
@@ -6432,7 +6432,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a8"),
 		"datum" : ISODate("2024-09-03T17:48:42Z"),
-		"brzina" : 84,
+		"brzina" : 60,
 		"koordinate" : [
 			14.19104,
 			48.1956133
@@ -6442,7 +6442,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6a9"),
 		"datum" : ISODate("2024-09-03T17:49:25Z"),
-		"brzina" : 85,
+		"brzina" : 60,
 		"koordinate" : [
 			14.1782316,
 			48.1922683
@@ -6452,7 +6452,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6aa"),
 		"datum" : ISODate("2024-09-03T17:50:08Z"),
-		"brzina" : 83,
+		"brzina" : 60,
 		"koordinate" : [
 			14.1653766,
 			48.1894533
@@ -6462,7 +6462,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ab"),
 		"datum" : ISODate("2024-09-03T17:51:08Z"),
-		"brzina" : 8,
+		"brzina" : 63,
 		"koordinate" : [
 			14.1571666,
 			48.1867399
@@ -6472,7 +6472,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ac"),
 		"datum" : ISODate("2024-09-03T17:52:08Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6482,7 +6482,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ad"),
 		"datum" : ISODate("2024-09-03T17:53:08Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6492,7 +6492,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ae"),
 		"datum" : ISODate("2024-09-03T17:54:08Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6502,7 +6502,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6af"),
 		"datum" : ISODate("2024-09-03T17:55:09Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6512,7 +6512,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b0"),
 		"datum" : ISODate("2024-09-03T17:56:09Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6522,7 +6522,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b1"),
 		"datum" : ISODate("2024-09-03T17:57:08Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6532,7 +6532,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b2"),
 		"datum" : ISODate("2024-09-03T17:58:09Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6542,7 +6542,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b3"),
 		"datum" : ISODate("2024-09-03T17:59:09Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6552,7 +6552,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b4"),
 		"datum" : ISODate("2024-09-03T18:00:09Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6562,7 +6562,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b5"),
 		"datum" : ISODate("2024-09-03T18:01:09Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6572,7 +6572,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b6"),
 		"datum" : ISODate("2024-09-03T18:02:09Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6582,7 +6582,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b7"),
 		"datum" : ISODate("2024-09-03T18:03:09Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6592,7 +6592,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b8"),
 		"datum" : ISODate("2024-09-03T18:03:17Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6602,7 +6602,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6b9"),
 		"datum" : ISODate("2024-09-03T18:03:18Z"),
-		"brzina" : 0,
+		"brzina" : 65,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6612,7 +6612,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ba"),
 		"datum" : ISODate("2024-09-03T18:04:16Z"),
-		"brzina" : 0,
+		"brzina" : 65,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6622,7 +6622,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6bb"),
 		"datum" : ISODate("2024-09-03T19:04:23Z"),
-		"brzina" : 0,
+		"brzina" : 66,
 		"koordinate" : [
 			14.15568,
 			48.1863066
@@ -6632,7 +6632,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6bc"),
 		"datum" : ISODate("2024-09-03T22:08:31Z"),
-		"brzina" : 0,
+		"brzina" : 65,
 		"koordinate" : [
 			14.15571,
 			48.1863333
@@ -6642,7 +6642,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6bd"),
 		"datum" : ISODate("2024-09-03T23:08:38Z"),
-		"brzina" : 0,
+		"brzina" : 64,
 		"koordinate" : [
 			14.15571,
 			48.1863333
@@ -6652,7 +6652,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6be"),
 		"datum" : ISODate("2024-09-04T00:08:44Z"),
-		"brzina" : 0,
+		"brzina" : 63,
 		"koordinate" : [
 			14.15571,
 			48.1863333
@@ -6662,7 +6662,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6bf"),
 		"datum" : ISODate("2024-09-04T00:40:23Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.1556583,
 			48.1863683
@@ -6672,7 +6672,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c0"),
 		"datum" : ISODate("2024-09-04T00:41:23Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			14.1556583,
 			48.1863683
@@ -6682,7 +6682,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c1"),
 		"datum" : ISODate("2024-09-04T00:42:17Z"),
-		"brzina" : 8,
+		"brzina" : 60,
 		"koordinate" : [
 			14.15558,
 			48.1862633
@@ -6692,7 +6692,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c2"),
 		"datum" : ISODate("2024-09-04T00:43:18Z"),
-		"brzina" : 73,
+		"brzina" : 63,
 		"koordinate" : [
 			14.1475433,
 			48.1820033
@@ -6702,7 +6702,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c3"),
 		"datum" : ISODate("2024-09-04T00:44:01Z"),
-		"brzina" : 82,
+		"brzina" : 62,
 		"koordinate" : [
 			14.136105,
 			48.1771283
@@ -6712,7 +6712,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c4"),
 		"datum" : ISODate("2024-09-04T00:44:46Z"),
-		"brzina" : 84,
+		"brzina" : 64,
 		"koordinate" : [
 			14.1228633,
 			48.1746149
@@ -6722,7 +6722,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c5"),
 		"datum" : ISODate("2024-09-04T00:45:30Z"),
-		"brzina" : 85,
+		"brzina" : 65,
 		"koordinate" : [
 			14.1095083,
 			48.1768866
@@ -6732,7 +6732,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c6"),
 		"datum" : ISODate("2024-09-04T00:46:14Z"),
-		"brzina" : 83,
+		"brzina" : 63,
 		"koordinate" : [
 			14.0988066,
 			48.182435
@@ -6742,7 +6742,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c7"),
 		"datum" : ISODate("2024-09-04T00:46:58Z"),
-		"brzina" : 82,
+		"brzina" : 62,
 		"koordinate" : [
 			14.0873833,
 			48.1874616
@@ -6752,7 +6752,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c8"),
 		"datum" : ISODate("2024-09-04T00:47:44Z"),
-		"brzina" : 77,
+		"brzina" : 60,
 		"koordinate" : [
 			14.0744783,
 			48.1906216
@@ -6762,7 +6762,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6c9"),
 		"datum" : ISODate("2024-09-04T00:48:29Z"),
-		"brzina" : 82,
+		"brzina" : 60,
 		"koordinate" : [
 			14.0608316,
 			48.191775
@@ -6772,7 +6772,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ca"),
 		"datum" : ISODate("2024-09-04T00:49:12Z"),
-		"brzina" : 85,
+		"brzina" : 60,
 		"koordinate" : [
 			14.0472083,
 			48.19126
@@ -6782,7 +6782,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6cb"),
 		"datum" : ISODate("2024-09-04T00:49:56Z"),
-		"brzina" : 83,
+		"brzina" : 60,
 		"koordinate" : [
 			14.0335883,
 			48.1899916
@@ -6792,7 +6792,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6cc"),
 		"datum" : ISODate("2024-09-04T00:50:41Z"),
-		"brzina" : 78,
+		"brzina" : 60,
 		"koordinate" : [
 			14.0215983,
 			48.1856133
@@ -6802,7 +6802,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6cd"),
 		"datum" : ISODate("2024-09-04T00:51:27Z"),
-		"brzina" : 83,
+		"brzina" : 63,
 		"koordinate" : [
 			14.0086333,
 			48.1822866
@@ -6812,7 +6812,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ce"),
 		"datum" : ISODate("2024-09-04T00:52:11Z"),
-		"brzina" : 84,
+		"brzina" : 64,
 		"koordinate" : [
 			13.995615,
 			48.1795683
@@ -6822,7 +6822,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6cf"),
 		"datum" : ISODate("2024-09-04T00:52:55Z"),
-		"brzina" : 76,
+		"brzina" : 66,
 		"koordinate" : [
 			13.9821366,
 			48.1803233
@@ -6832,7 +6832,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d0"),
 		"datum" : ISODate("2024-09-04T00:53:40Z"),
-		"brzina" : 84,
+		"brzina" : 64,
 		"koordinate" : [
 			13.9701766,
 			48.184765
@@ -6842,7 +6842,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d1"),
 		"datum" : ISODate("2024-09-04T00:54:23Z"),
-		"brzina" : 82,
+		"brzina" : 62,
 		"koordinate" : [
 			13.9572683,
 			48.1875466
@@ -6852,7 +6852,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d2"),
 		"datum" : ISODate("2024-09-04T00:55:11Z"),
-		"brzina" : 72,
+		"brzina" : 62,
 		"koordinate" : [
 			13.9437083,
 			48.18793
@@ -6862,7 +6862,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d3"),
 		"datum" : ISODate("2024-09-04T00:55:57Z"),
-		"brzina" : 78,
+		"brzina" : 60,
 		"koordinate" : [
 			13.9302433,
 			48.1893166
@@ -6872,7 +6872,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d4"),
 		"datum" : ISODate("2024-09-04T00:56:43Z"),
-		"brzina" : 89,
+		"brzina" : 60,
 		"koordinate" : [
 			13.9168049,
 			48.1877033
@@ -6882,7 +6882,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d5"),
 		"datum" : ISODate("2024-09-04T00:57:25Z"),
-		"brzina" : 85,
+		"brzina" : 60,
 		"koordinate" : [
 			13.9056016,
 			48.1824983
@@ -6892,7 +6892,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d6"),
 		"datum" : ISODate("2024-09-04T00:58:08Z"),
-		"brzina" : 81,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8933783,
 			48.1784783
@@ -6902,7 +6902,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d7"),
 		"datum" : ISODate("2024-09-04T00:58:53Z"),
-		"brzina" : 84,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8798499,
 			48.1773666
@@ -6912,7 +6912,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d8"),
 		"datum" : ISODate("2024-09-04T00:59:36Z"),
-		"brzina" : 83,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8663733,
 			48.1791166
@@ -6922,7 +6922,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6d9"),
 		"datum" : ISODate("2024-09-04T01:00:20Z"),
-		"brzina" : 88,
+		"brzina" : 60,
 		"koordinate" : [
 			13.852795,
 			48.1780816
@@ -6932,7 +6932,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6da"),
 		"datum" : ISODate("2024-09-04T01:01:02Z"),
-		"brzina" : 87,
+		"brzina" : 60,
 		"koordinate" : [
 			13.839505,
 			48.1761616
@@ -6942,7 +6942,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6db"),
 		"datum" : ISODate("2024-09-04T01:01:45Z"),
-		"brzina" : 85,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8284149,
 			48.18134
@@ -6952,7 +6952,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6dc"),
 		"datum" : ISODate("2024-09-04T01:02:30Z"),
-		"brzina" : 86,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8151216,
 			48.1834566
@@ -6962,7 +6962,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6dd"),
 		"datum" : ISODate("2024-09-04T01:03:11Z"),
-		"brzina" : 91,
+		"brzina" : 60,
 		"koordinate" : [
 			13.8016,
 			48.1822266
@@ -6972,7 +6972,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6de"),
 		"datum" : ISODate("2024-09-04T01:03:55Z"),
-		"brzina" : 83,
+		"brzina" : 58,
 		"koordinate" : [
 			13.7878733,
 			48.1825066
@@ -6982,7 +6982,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6df"),
 		"datum" : ISODate("2024-09-04T01:04:39Z"),
-		"brzina" : 83,
+		"brzina" : 57,
 		"koordinate" : [
 			13.7753183,
 			48.178945
@@ -6992,7 +6992,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e0"),
 		"datum" : ISODate("2024-09-04T01:05:23Z"),
-		"brzina" : 83,
+		"brzina" : 56,
 		"koordinate" : [
 			13.7616183,
 			48.1782366
@@ -7002,7 +7002,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e1"),
 		"datum" : ISODate("2024-09-04T01:06:07Z"),
-		"brzina" : 90,
+		"brzina" : 54,
 		"koordinate" : [
 			13.7480333,
 			48.1781416
@@ -7022,7 +7022,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e3"),
 		"datum" : ISODate("2024-09-04T01:08:00Z"),
-		"brzina" : 76,
+		"brzina" : 56,
 		"koordinate" : [
 			13.7213716,
 			48.176255
@@ -7032,7 +7032,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e4"),
 		"datum" : ISODate("2024-09-04T01:08:47Z"),
-		"brzina" : 82,
+		"brzina" : 54,
 		"koordinate" : [
 			13.7077933,
 			48.1754316
@@ -7042,7 +7042,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e5"),
 		"datum" : ISODate("2024-09-04T01:09:32Z"),
-		"brzina" : 77,
+		"brzina" : 54,
 		"koordinate" : [
 			13.6959599,
 			48.1798449
@@ -7052,7 +7052,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e6"),
 		"datum" : ISODate("2024-09-04T01:10:16Z"),
-		"brzina" : 90,
+		"brzina" : 54,
 		"koordinate" : [
 			13.68579,
 			48.1859933
@@ -7062,7 +7062,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e7"),
 		"datum" : ISODate("2024-09-04T01:10:58Z"),
-		"brzina" : 83,
+		"brzina" : 53,
 		"koordinate" : [
 			13.6733316,
 			48.1895516
@@ -7072,7 +7072,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e8"),
 		"datum" : ISODate("2024-09-04T01:11:46Z"),
-		"brzina" : 73,
+		"brzina" : 53,
 		"koordinate" : [
 			13.6597933,
 			48.1901816
@@ -7082,7 +7082,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6e9"),
 		"datum" : ISODate("2024-09-04T01:12:32Z"),
-		"brzina" : 85,
+		"brzina" : 55,
 		"koordinate" : [
 			13.647325,
 			48.1941316
@@ -7092,7 +7092,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ea"),
 		"datum" : ISODate("2024-09-04T01:13:17Z"),
-		"brzina" : 87,
+		"brzina" : 55,
 		"koordinate" : [
 			13.6395183,
 			48.201715
@@ -7102,7 +7102,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6eb"),
 		"datum" : ISODate("2024-09-04T01:14:01Z"),
-		"brzina" : 80,
+		"brzina" : 57,
 		"koordinate" : [
 			13.63239,
 			48.2095283
@@ -7112,7 +7112,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ec"),
 		"datum" : ISODate("2024-09-04T01:14:50Z"),
-		"brzina" : 76,
+		"brzina" : 56,
 		"koordinate" : [
 			13.6231116,
 			48.2161966
@@ -7122,7 +7122,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ed"),
 		"datum" : ISODate("2024-09-04T01:15:34Z"),
-		"brzina" : 82,
+		"brzina" : 55,
 		"koordinate" : [
 			13.6128666,
 			48.2223066
@@ -7132,7 +7132,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ee"),
 		"datum" : ISODate("2024-09-04T01:16:20Z"),
-		"brzina" : 78,
+		"brzina" : 55,
 		"koordinate" : [
 			13.6020016,
 			48.22795
@@ -7142,7 +7142,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ef"),
 		"datum" : ISODate("2024-09-04T01:17:04Z"),
-		"brzina" : 77,
+		"brzina" : 57,
 		"koordinate" : [
 			13.5903566,
 			48.2328566
@@ -7152,7 +7152,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f0"),
 		"datum" : ISODate("2024-09-04T01:18:03Z"),
-		"brzina" : 55,
+		"brzina" : 56,
 		"koordinate" : [
 			13.5780533,
 			48.2369016
@@ -7162,7 +7162,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f1"),
 		"datum" : ISODate("2024-09-04T01:19:00Z"),
-		"brzina" : 68,
+		"brzina" : 58,
 		"koordinate" : [
 			13.5650233,
 			48.2398533
@@ -7172,7 +7172,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f2"),
 		"datum" : ISODate("2024-09-04T01:19:48Z"),
-		"brzina" : 82,
+		"brzina" : 55,
 		"koordinate" : [
 			13.5516866,
 			48.24143
@@ -7182,7 +7182,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f3"),
 		"datum" : ISODate("2024-09-04T01:20:30Z"),
-		"brzina" : 87,
+		"brzina" : 57,
 		"koordinate" : [
 			13.5381616,
 			48.2430383
@@ -7192,7 +7192,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f4"),
 		"datum" : ISODate("2024-09-04T01:21:14Z"),
-		"brzina" : 82,
+		"brzina" : 58,
 		"koordinate" : [
 			13.5252416,
 			48.2462166
@@ -7202,7 +7202,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f5"),
 		"datum" : ISODate("2024-09-04T01:21:59Z"),
-		"brzina" : 75,
+		"brzina" : 60,
 		"koordinate" : [
 			13.5157183,
 			48.2527683
@@ -7212,7 +7212,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f6"),
 		"datum" : ISODate("2024-09-04T01:22:51Z"),
-		"brzina" : 68,
+		"brzina" : 60,
 		"koordinate" : [
 			13.5092183,
 			48.260835
@@ -7222,7 +7222,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f7"),
 		"datum" : ISODate("2024-09-04T01:23:39Z"),
-		"brzina" : 79,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4997433,
 			48.267395
@@ -7232,7 +7232,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f8"),
 		"datum" : ISODate("2024-09-04T01:24:31Z"),
-		"brzina" : 63,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4920866,
 			48.2749066
@@ -7242,7 +7242,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6f9"),
 		"datum" : ISODate("2024-09-04T01:25:23Z"),
-		"brzina" : 71,
+		"brzina" : 60,
 		"koordinate" : [
 			13.48829,
 			48.2837016
@@ -7252,7 +7252,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6fa"),
 		"datum" : ISODate("2024-09-04T01:26:13Z"),
-		"brzina" : 72,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4841683,
 			48.2923733
@@ -7262,7 +7262,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6fb"),
 		"datum" : ISODate("2024-09-04T01:27:01Z"),
-		"brzina" : 78,
+		"brzina" : 60,
 		"koordinate" : [
 			13.47592,
 			48.2997483
@@ -7272,7 +7272,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6fc"),
 		"datum" : ISODate("2024-09-04T01:27:46Z"),
-		"brzina" : 81,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4645816,
 			48.30476
@@ -7282,7 +7282,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6fd"),
 		"datum" : ISODate("2024-09-04T01:28:33Z"),
-		"brzina" : 77,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4512883,
 			48.30704
@@ -7292,7 +7292,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6fe"),
 		"datum" : ISODate("2024-09-04T01:29:18Z"),
-		"brzina" : 87,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4377366,
 			48.307945
@@ -7302,7 +7302,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f6ff"),
 		"datum" : ISODate("2024-09-04T01:30:01Z"),
-		"brzina" : 81,
+		"brzina" : 60,
 		"koordinate" : [
 			13.425755,
 			48.312495
@@ -7312,7 +7312,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f700"),
 		"datum" : ISODate("2024-09-04T01:30:49Z"),
-		"brzina" : 40,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4182816,
 			48.320055
@@ -7322,7 +7322,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f701"),
 		"datum" : ISODate("2024-09-04T01:30:57Z"),
-		"brzina" : 30,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4185366,
 			48.3206516
@@ -7332,7 +7332,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f702"),
 		"datum" : ISODate("2024-09-04T01:31:04Z"),
-		"brzina" : 28,
+		"brzina" : 60,
 		"koordinate" : [
 			13.419265,
 			48.3206499
@@ -7342,7 +7342,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f703"),
 		"datum" : ISODate("2024-09-04T01:32:04Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4205133,
 			48.3192966
@@ -7352,7 +7352,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f704"),
 		"datum" : ISODate("2024-09-04T01:32:08Z"),
-		"brzina" : 11,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4206533,
 			48.3192366
@@ -7362,7 +7362,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f705"),
 		"datum" : ISODate("2024-09-04T01:32:51Z"),
-		"brzina" : 22,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4254966,
 			48.3171116
@@ -7372,7 +7372,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f706"),
 		"datum" : ISODate("2024-09-04T01:33:51Z"),
-		"brzina" : 25,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4240633,
 			48.312545
@@ -7382,7 +7382,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f707"),
 		"datum" : ISODate("2024-09-04T01:34:18Z"),
-		"brzina" : 50,
+		"brzina" : 60,
 		"koordinate" : [
 			13.423955,
 			48.3097566
@@ -7392,7 +7392,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f708"),
 		"datum" : ISODate("2024-09-04T01:34:38Z"),
-		"brzina" : 13,
+		"brzina" : 60,
 		"koordinate" : [
 			13.425825,
 			48.3083366
@@ -7402,7 +7402,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f709"),
 		"datum" : ISODate("2024-09-04T01:35:12Z"),
-		"brzina" : 12,
+		"brzina" : 60,
 		"koordinate" : [
 			13.425495,
 			48.3076949
@@ -7412,7 +7412,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70a"),
 		"datum" : ISODate("2024-09-04T01:35:24Z"),
-		"brzina" : 7,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4258366,
 			48.3075816
@@ -7422,7 +7422,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70b"),
 		"datum" : ISODate("2024-09-04T01:35:31Z"),
-		"brzina" : 9,
+		"brzina" : 60,
 		"koordinate" : [
 			13.4260766,
 			48.307655
@@ -7432,7 +7432,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70c"),
 		"datum" : ISODate("2024-09-04T01:36:31Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.42611,
 			48.3079249
@@ -7442,7 +7442,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70d"),
 		"datum" : ISODate("2024-09-04T01:36:56Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.42611,
 			48.3079249
@@ -7452,7 +7452,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70e"),
 		"datum" : ISODate("2024-09-04T01:36:56.010Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.42611,
 			48.3079249
@@ -7462,7 +7462,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f70f"),
 		"datum" : ISODate("2024-09-04T01:37:57Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.42611,
 			48.3079249
@@ -7472,7 +7472,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f710"),
 		"datum" : ISODate("2024-09-04T02:38:03Z"),
-		"brzina" : 0,
+		"brzina" : 60,
 		"koordinate" : [
 			13.42611,
 			48.3079249
@@ -7482,7 +7482,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f711"),
 		"datum" : ISODate("2024-09-04T02:48:58Z"),
-		"brzina" : 7,
+		"brzina" : 60,
 		"koordinate" : [
 			13.425985,
 			48.3079116
@@ -7492,7 +7492,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f712"),
 		"datum" : ISODate("2024-09-04T02:48:58.010Z"),
-		"brzina" : 9,
+		"brzina" : 60,
 		"koordinate" : [
 			13.425985,
 			48.3079116
@@ -7502,7 +7502,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f713"),
 		"datum" : ISODate("2024-09-04T02:49:08Z"),
-		"brzina" : 13,
+		"brzina" : 63,
 		"koordinate" : [
 			13.42578,
 			48.3082199
@@ -7512,7 +7512,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f714"),
 		"datum" : ISODate("2024-09-04T02:49:40Z"),
-		"brzina" : 37,
+		"brzina" : 67,
 		"koordinate" : [
 			13.4251633,
 			48.3091249
@@ -7522,7 +7522,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f715"),
 		"datum" : ISODate("2024-09-04T02:50:04Z"),
-		"brzina" : 54,
+		"brzina" : 70,
 		"koordinate" : [
 			13.42344,
 			48.3112449
@@ -7532,7 +7532,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f716"),
 		"datum" : ISODate("2024-09-04T02:51:04Z"),
-		"brzina" : 20,
+		"brzina" : 70,
 		"koordinate" : [
 			13.4256283,
 			48.3170533
@@ -7542,7 +7542,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f717"),
 		"datum" : ISODate("2024-09-04T02:51:45Z"),
-		"brzina" : 61,
+		"brzina" : 70,
 		"koordinate" : [
 			13.4197083,
 			48.319225
@@ -7552,7 +7552,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f718"),
 		"datum" : ISODate("2024-09-04T02:52:38Z"),
-		"brzina" : 51,
+		"brzina" : 70,
 		"koordinate" : [
 			13.4064266,
 			48.3172533
@@ -7562,7 +7562,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f719"),
 		"datum" : ISODate("2024-09-04T02:53:37Z"),
-		"brzina" : 34,
+		"brzina" : 70,
 		"koordinate" : [
 			13.39778,
 			48.3181249
@@ -7572,7 +7572,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71a"),
 		"datum" : ISODate("2024-09-04T02:54:34Z"),
-		"brzina" : 78,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3852366,
 			48.3219316
@@ -7582,7 +7582,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71b"),
 		"datum" : ISODate("2024-09-04T02:55:21Z"),
-		"brzina" : 83,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3750466,
 			48.3280466
@@ -7592,7 +7592,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71c"),
 		"datum" : ISODate("2024-09-04T02:55:44Z"),
-		"brzina" : 73,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3704916,
 			48.3306683
@@ -7602,7 +7602,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71d"),
 		"datum" : ISODate("2024-09-04T02:56:30Z"),
-		"brzina" : 89,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3609333,
 			48.3241683
@@ -7612,7 +7612,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71e"),
 		"datum" : ISODate("2024-09-04T02:57:11Z"),
-		"brzina" : 85,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3537333,
 			48.3164183
@@ -7622,7 +7622,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f71f"),
 		"datum" : ISODate("2024-09-04T02:57:53Z"),
-		"brzina" : 89,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3467166,
 			48.3086966
@@ -7632,7 +7632,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f720"),
 		"datum" : ISODate("2024-09-04T02:58:35Z"),
-		"brzina" : 90,
+		"brzina" : 70,
 		"koordinate" : [
 			13.3360966,
 			48.3028783
@@ -7642,7 +7642,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f721"),
 		"datum" : ISODate("2024-09-04T02:59:17Z"),
-		"brzina" : 85,
+		"brzina" : 70,
 		"koordinate" : [
 			13.322735,
 			48.301235
@@ -7652,7 +7652,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f722"),
 		"datum" : ISODate("2024-09-04T02:59:59Z"),
-		"brzina" : 90,
+		"brzina" : 74,
 		"koordinate" : [
 			13.3121933,
 			48.295285
@@ -7662,7 +7662,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f723"),
 		"datum" : ISODate("2024-09-04T03:00:40Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			13.3003416,
 			48.2905666
@@ -7702,7 +7702,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f727"),
 		"datum" : ISODate("2024-09-04T03:03:51Z"),
-		"brzina" : 27,
+		"brzina" : 87,
 		"koordinate" : [
 			13.25637,
 			48.27338
@@ -7712,7 +7712,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f728"),
 		"datum" : ISODate("2024-09-04T03:04:51Z"),
-		"brzina" : 73,
+		"brzina" : 88,
 		"koordinate" : [
 			13.2469666,
 			48.2667699
@@ -7722,7 +7722,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f729"),
 		"datum" : ISODate("2024-09-04T03:05:51Z"),
-		"brzina" : 51,
+		"brzina" : 90,
 		"koordinate" : [
 			13.2390249,
 			48.262465
@@ -7732,7 +7732,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72a"),
 		"datum" : ISODate("2024-09-04T03:06:41Z"),
-		"brzina" : 82,
+		"brzina" : 90,
 		"koordinate" : [
 			13.2255649,
 			48.2612116
@@ -7742,7 +7742,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72b"),
 		"datum" : ISODate("2024-09-04T03:07:26Z"),
-		"brzina" : 84,
+		"brzina" : 90,
 		"koordinate" : [
 			13.2132666,
 			48.2570166
@@ -7752,7 +7752,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72c"),
 		"datum" : ISODate("2024-09-04T03:08:25Z"),
-		"brzina" : 58,
+		"brzina" : 90,
 		"koordinate" : [
 			13.2074716,
 			48.2496966
@@ -7762,7 +7762,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72d"),
 		"datum" : ISODate("2024-09-04T03:09:25Z"),
-		"brzina" : 12,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1955766,
 			48.2489883
@@ -7772,7 +7772,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72e"),
 		"datum" : ISODate("2024-09-04T03:10:25Z"),
-		"brzina" : 25,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1924366,
 			48.2489
@@ -7782,7 +7782,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f72f"),
 		"datum" : ISODate("2024-09-04T03:11:02Z"),
-		"brzina" : 77,
+		"brzina" : 90,
 		"koordinate" : [
 			13.18449,
 			48.2498816
@@ -7792,7 +7792,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f730"),
 		"datum" : ISODate("2024-09-04T03:11:52Z"),
-		"brzina" : 78,
+		"brzina" : 90,
 		"koordinate" : [
 			13.172115,
 			48.2536066
@@ -7802,7 +7802,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f731"),
 		"datum" : ISODate("2024-09-04T03:12:45Z"),
-		"brzina" : 66,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1588216,
 			48.2513816
@@ -7812,7 +7812,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f732"),
 		"datum" : ISODate("2024-09-04T03:13:15Z"),
-		"brzina" : 78,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1510016,
 			48.2519283
@@ -7822,7 +7822,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f733"),
 		"datum" : ISODate("2024-09-04T03:14:03Z"),
-		"brzina" : 77,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1397866,
 			48.2569583
@@ -7832,7 +7832,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f734"),
 		"datum" : ISODate("2024-09-04T03:14:47Z"),
-		"brzina" : 82,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1264433,
 			48.2551183
@@ -7842,7 +7842,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f735"),
 		"datum" : ISODate("2024-09-04T03:15:34Z"),
-		"brzina" : 73,
+		"brzina" : 90,
 		"koordinate" : [
 			13.113205,
 			48.2531216
@@ -7852,7 +7852,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f736"),
 		"datum" : ISODate("2024-09-04T03:16:22Z"),
-		"brzina" : 70,
+		"brzina" : 90,
 		"koordinate" : [
 			13.1003133,
 			48.2499766
@@ -7862,7 +7862,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f737"),
 		"datum" : ISODate("2024-09-04T03:17:04Z"),
-		"brzina" : 62,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0911066,
 			48.2485666
@@ -7872,7 +7872,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f738"),
 		"datum" : ISODate("2024-09-04T03:18:03Z"),
-		"brzina" : 60,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0797716,
 			48.2536483
@@ -7882,7 +7882,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f739"),
 		"datum" : ISODate("2024-09-04T03:18:59Z"),
-		"brzina" : 71,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0667083,
 			48.2510966
@@ -7892,7 +7892,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73a"),
 		"datum" : ISODate("2024-09-04T03:19:52Z"),
-		"brzina" : 68,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0540833,
 			48.2474633
@@ -7902,7 +7902,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73b"),
 		"datum" : ISODate("2024-09-04T03:20:38Z"),
-		"brzina" : 75,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0424383,
 			48.2425816
@@ -7912,7 +7912,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73c"),
 		"datum" : ISODate("2024-09-04T03:21:32Z"),
-		"brzina" : 69,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0298366,
 			48.2391033
@@ -7922,7 +7922,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73d"),
 		"datum" : ISODate("2024-09-04T03:21:55Z"),
-		"brzina" : 33,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0251849,
 			48.239965
@@ -7932,7 +7932,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73e"),
 		"datum" : ISODate("2024-09-04T03:22:55Z"),
-		"brzina" : 71,
+		"brzina" : 90,
 		"koordinate" : [
 			13.01873,
 			48.2462033
@@ -7942,7 +7942,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f73f"),
 		"datum" : ISODate("2024-09-04T03:23:48Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			13.01606,
 			48.2478366
@@ -7952,7 +7952,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f740"),
 		"datum" : ISODate("2024-09-04T03:23:50Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			13.01606,
 			48.2478366
@@ -7962,7 +7962,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f741"),
 		"datum" : ISODate("2024-09-04T03:24:47Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			13.01606,
 			48.2478366
@@ -7972,7 +7972,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f742"),
 		"datum" : ISODate("2024-09-04T03:30:48Z"),
-		"brzina" : 23,
+		"brzina" : 90,
 		"koordinate" : [
 			13.0149316,
 			48.2482833
@@ -7982,7 +7982,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f743"),
 		"datum" : ISODate("2024-09-04T03:31:49Z"),
-		"brzina" : 45,
+		"brzina" : 90,
 		"koordinate" : [
 			13.005385,
 			48.2510233
@@ -7992,7 +7992,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f744"),
 		"datum" : ISODate("2024-09-04T03:32:26Z"),
-		"brzina" : 82,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9972866,
 			48.2482766
@@ -8012,7 +8012,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f746"),
 		"datum" : ISODate("2024-09-04T03:33:58Z"),
-		"brzina" : 57,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9786133,
 			48.2349233
@@ -8022,7 +8022,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f747"),
 		"datum" : ISODate("2024-09-04T03:34:53Z"),
-		"brzina" : 70,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9672016,
 			48.22988
@@ -8032,7 +8032,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f748"),
 		"datum" : ISODate("2024-09-04T03:35:49Z"),
-		"brzina" : 59,
+		"brzina" : 90,
 		"koordinate" : [
 			12.95403,
 			48.22769
@@ -8042,7 +8042,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f749"),
 		"datum" : ISODate("2024-09-04T03:36:48Z"),
-		"brzina" : 58,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9403716,
 			48.2284
@@ -8052,7 +8052,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74a"),
 		"datum" : ISODate("2024-09-04T03:37:49Z"),
-		"brzina" : 24,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9291016,
 			48.2309666
@@ -8062,7 +8062,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74b"),
 		"datum" : ISODate("2024-09-04T03:38:49Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9278066,
 			48.231325
@@ -8072,7 +8072,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74c"),
 		"datum" : ISODate("2024-09-04T03:39:49Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9276033,
 			48.2313866
@@ -8082,7 +8082,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74d"),
 		"datum" : ISODate("2024-09-04T03:40:50Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9260216,
 			48.2319016
@@ -8092,7 +8092,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74e"),
 		"datum" : ISODate("2024-09-04T03:41:49Z"),
-		"brzina" : 4,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9260216,
 			48.2319016
@@ -8102,7 +8102,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f74f"),
 		"datum" : ISODate("2024-09-04T03:42:49Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9239583,
 			48.2324466
@@ -8112,7 +8112,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f750"),
 		"datum" : ISODate("2024-09-04T03:43:49Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9239583,
 			48.2324466
@@ -8122,7 +8122,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f751"),
 		"datum" : ISODate("2024-09-04T03:44:50Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9209066,
 			48.2336483
@@ -8132,7 +8132,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f752"),
 		"datum" : ISODate("2024-09-04T03:45:50Z"),
-		"brzina" : 20,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9197933,
 			48.23395
@@ -8142,7 +8142,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f753"),
 		"datum" : ISODate("2024-09-04T03:46:31Z"),
-		"brzina" : 6,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9190983,
 			48.2343199
@@ -8152,7 +8152,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f754"),
 		"datum" : ISODate("2024-09-04T03:46:59Z"),
-		"brzina" : 8,
+		"brzina" : 90,
 		"koordinate" : [
 			12.91901,
 			48.2343183
@@ -8162,7 +8162,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f755"),
 		"datum" : ISODate("2024-09-04T03:47:39Z"),
-		"brzina" : 8,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9185366,
 			48.23443
@@ -8172,7 +8172,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f756"),
 		"datum" : ISODate("2024-09-04T03:48:39Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9185766,
 			48.23439
@@ -8182,7 +8182,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f757"),
 		"datum" : ISODate("2024-09-04T03:48:42Z"),
-		"brzina" : 7,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9185183,
 			48.2344866
@@ -8192,7 +8192,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f758"),
 		"datum" : ISODate("2024-09-04T03:48:52Z"),
-		"brzina" : 3,
+		"brzina" : 90,
 		"koordinate" : [
 			12.918265,
 			48.2345433
@@ -8202,7 +8202,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f759"),
 		"datum" : ISODate("2024-09-04T03:49:02Z"),
-		"brzina" : 15,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9177483,
 			48.2347099
@@ -8212,7 +8212,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75a"),
 		"datum" : ISODate("2024-09-04T03:50:02Z"),
-		"brzina" : 33,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9125366,
 			48.2366333
@@ -8222,7 +8222,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75b"),
 		"datum" : ISODate("2024-09-04T03:51:02Z"),
-		"brzina" : 34,
+		"brzina" : 90,
 		"koordinate" : [
 			12.906435,
 			48.2388016
@@ -8232,7 +8232,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75c"),
 		"datum" : ISODate("2024-09-04T03:52:03Z"),
-		"brzina" : 17,
+		"brzina" : 90,
 		"koordinate" : [
 			12.9005049,
 			48.2403916
@@ -8242,7 +8242,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75d"),
 		"datum" : ISODate("2024-09-04T03:52:29Z"),
-		"brzina" : 8,
+		"brzina" : 90,
 		"koordinate" : [
 			12.8991016,
 			48.2407316
@@ -8252,7 +8252,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75e"),
 		"datum" : ISODate("2024-09-04T03:52:32Z"),
-		"brzina" : 7,
+		"brzina" : 87,
 		"koordinate" : [
 			12.8989749,
 			48.2407966
@@ -8262,7 +8262,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f75f"),
 		"datum" : ISODate("2024-09-04T03:53:32Z"),
-		"brzina" : 45,
+		"brzina" : 85,
 		"koordinate" : [
 			12.8922733,
 			48.2424233
@@ -8272,7 +8272,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f760"),
 		"datum" : ISODate("2024-09-04T03:54:32Z"),
-		"brzina" : 67,
+		"brzina" : 85,
 		"koordinate" : [
 			12.8790883,
 			48.2441716
@@ -8282,7 +8282,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f761"),
 		"datum" : ISODate("2024-09-04T03:55:22Z"),
-		"brzina" : 63,
+		"brzina" : 83,
 		"koordinate" : [
 			12.8654333,
 			48.2440533
@@ -8292,7 +8292,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f762"),
 		"datum" : ISODate("2024-09-04T03:56:17Z"),
-		"brzina" : 76,
+		"brzina" : 80,
 		"koordinate" : [
 			12.8518333,
 			48.2439033
@@ -8302,7 +8302,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f763"),
 		"datum" : ISODate("2024-09-04T03:57:05Z"),
-		"brzina" : 78,
+		"brzina" : 80,
 		"koordinate" : [
 			12.838255,
 			48.2444299
@@ -8312,7 +8312,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f764"),
 		"datum" : ISODate("2024-09-04T03:57:48Z"),
-		"brzina" : 88,
+		"brzina" : 80,
 		"koordinate" : [
 			12.8248733,
 			48.24647
@@ -8322,7 +8322,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f765"),
 		"datum" : ISODate("2024-09-04T03:58:28Z"),
-		"brzina" : 89,
+		"brzina" : 80,
 		"koordinate" : [
 			12.8114149,
 			48.247875
@@ -8342,7 +8342,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f767"),
 		"datum" : ISODate("2024-09-04T03:59:51Z"),
-		"brzina" : 85,
+		"brzina" : 80,
 		"koordinate" : [
 			12.7849499,
 			48.25135
@@ -8352,7 +8352,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f768"),
 		"datum" : ISODate("2024-09-04T04:00:31Z"),
-		"brzina" : 98,
+		"brzina" : 80,
 		"koordinate" : [
 			12.7710866,
 			48.2509883
@@ -8362,7 +8362,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f769"),
 		"datum" : ISODate("2024-09-04T04:01:09Z"),
-		"brzina" : 94,
+		"brzina" : 80,
 		"koordinate" : [
 			12.75771,
 			48.2489849
@@ -8372,7 +8372,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76a"),
 		"datum" : ISODate("2024-09-04T04:01:47Z"),
-		"brzina" : 98,
+		"brzina" : 80,
 		"koordinate" : [
 			12.7440933,
 			48.2473966
@@ -8382,7 +8382,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76b"),
 		"datum" : ISODate("2024-09-04T04:02:25Z"),
-		"brzina" : 99,
+		"brzina" : 80,
 		"koordinate" : [
 			12.7311966,
 			48.2504133
@@ -8392,7 +8392,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76c"),
 		"datum" : ISODate("2024-09-04T04:03:02Z"),
-		"brzina" : 99,
+		"brzina" : 80,
 		"koordinate" : [
 			12.719335,
 			48.2547583
@@ -8402,7 +8402,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76d"),
 		"datum" : ISODate("2024-09-04T04:03:40Z"),
-		"brzina" : 94,
+		"brzina" : 80,
 		"koordinate" : [
 			12.7056083,
 			48.2538866
@@ -8412,7 +8412,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76e"),
 		"datum" : ISODate("2024-09-04T04:04:18Z"),
-		"brzina" : 100,
+		"brzina" : 80,
 		"koordinate" : [
 			12.69177,
 			48.2535916
@@ -8422,7 +8422,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f76f"),
 		"datum" : ISODate("2024-09-04T04:04:57Z"),
-		"brzina" : 99,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6780916,
 			48.2521849
@@ -8432,7 +8432,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f770"),
 		"datum" : ISODate("2024-09-04T04:05:34Z"),
-		"brzina" : 99,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6645066,
 			48.2522816
@@ -8442,7 +8442,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f771"),
 		"datum" : ISODate("2024-09-04T04:06:14Z"),
-		"brzina" : 87,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6509766,
 			48.2532799
@@ -8452,7 +8452,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f772"),
 		"datum" : ISODate("2024-09-04T04:06:53Z"),
-		"brzina" : 102,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6373033,
 			48.252765
@@ -8462,7 +8462,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f773"),
 		"datum" : ISODate("2024-09-04T04:07:30Z"),
-		"brzina" : 94,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6247533,
 			48.256275
@@ -8472,7 +8472,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f774"),
 		"datum" : ISODate("2024-09-04T04:08:09Z"),
-		"brzina" : 96,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6140883,
 			48.261955
@@ -8482,7 +8482,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f775"),
 		"datum" : ISODate("2024-09-04T04:08:47Z"),
-		"brzina" : 97,
+		"brzina" : 80,
 		"koordinate" : [
 			12.6029616,
 			48.2673366
@@ -8492,7 +8492,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f776"),
 		"datum" : ISODate("2024-09-04T04:09:26Z"),
-		"brzina" : 96,
+		"brzina" : 80,
 		"koordinate" : [
 			12.59046,
 			48.2713533
@@ -8502,7 +8502,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f777"),
 		"datum" : ISODate("2024-09-04T04:10:04Z"),
-		"brzina" : 90,
+		"brzina" : 80,
 		"koordinate" : [
 			12.5773933,
 			48.27375
@@ -8512,7 +8512,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f778"),
 		"datum" : ISODate("2024-09-04T04:10:44Z"),
-		"brzina" : 94,
+		"brzina" : 84,
 		"koordinate" : [
 			12.5636283,
 			48.2743966
@@ -8522,7 +8522,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f779"),
 		"datum" : ISODate("2024-09-04T04:11:22Z"),
-		"brzina" : 97,
+		"brzina" : 87,
 		"koordinate" : [
 			12.54988,
 			48.2748633
@@ -8532,7 +8532,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f77a"),
 		"datum" : ISODate("2024-09-04T04:12:01Z"),
-		"brzina" : 96,
+		"brzina" : 90,
 		"koordinate" : [
 			12.5361566,
 			48.2767116
@@ -8542,7 +8542,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f77b"),
 		"datum" : ISODate("2024-09-04T04:12:41Z"),
-		"brzina" : 95,
+		"brzina" : 90,
 		"koordinate" : [
 			12.5224433,
 			48.27749
@@ -8552,7 +8552,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f77c"),
 		"datum" : ISODate("2024-09-04T04:13:21Z"),
-		"brzina" : 88,
+		"brzina" : 90,
 		"koordinate" : [
 			12.5088333,
 			48.2765666
@@ -8562,7 +8562,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f77d"),
 		"datum" : ISODate("2024-09-04T04:14:01Z"),
-		"brzina" : 94,
+		"brzina" : 90,
 		"koordinate" : [
 			12.49583,
 			48.274065
@@ -8632,7 +8632,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f784"),
 		"datum" : ISODate("2024-09-04T04:18:40Z"),
-		"brzina" : 88,
+		"brzina" : 90,
 		"koordinate" : [
 			12.4179183,
 			48.2466766
@@ -8662,7 +8662,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f787"),
 		"datum" : ISODate("2024-09-04T04:20:43Z"),
-		"brzina" : 98,
+		"brzina" : 90,
 		"koordinate" : [
 			12.3778516,
 			48.24965
@@ -8672,7 +8672,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f788"),
 		"datum" : ISODate("2024-09-04T04:21:21Z"),
-		"brzina" : 93,
+		"brzina" : 90,
 		"koordinate" : [
 			12.3645333,
 			48.2477133
@@ -8682,7 +8682,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f789"),
 		"datum" : ISODate("2024-09-04T04:22:02Z"),
-		"brzina" : 85,
+		"brzina" : 90,
 		"koordinate" : [
 			12.35098,
 			48.2483266
@@ -8702,7 +8702,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f78b"),
 		"datum" : ISODate("2024-09-04T04:23:26Z"),
-		"brzina" : 85,
+		"brzina" : 90,
 		"koordinate" : [
 			12.3242233,
 			48.2512033
@@ -8792,7 +8792,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f794"),
 		"datum" : ISODate("2024-09-04T04:29:45Z"),
-		"brzina" : 76,
+		"brzina" : 90,
 		"koordinate" : [
 			12.2035833,
 			48.2533316
@@ -8802,7 +8802,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f795"),
 		"datum" : ISODate("2024-09-04T04:30:34Z"),
-		"brzina" : 73,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1916066,
 			48.2576066
@@ -8812,7 +8812,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f796"),
 		"datum" : ISODate("2024-09-04T04:31:23Z"),
-		"brzina" : 74,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1786783,
 			48.2603283
@@ -8822,7 +8822,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f797"),
 		"datum" : ISODate("2024-09-04T04:32:11Z"),
-		"brzina" : 78,
+		"brzina" : 90,
 		"koordinate" : [
 			12.164965,
 			48.2597433
@@ -8832,7 +8832,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f798"),
 		"datum" : ISODate("2024-09-04T04:32:57Z"),
-		"brzina" : 85,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1527233,
 			48.2554633
@@ -8842,7 +8842,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f799"),
 		"datum" : ISODate("2024-09-04T04:33:39Z"),
-		"brzina" : 89,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1391866,
 			48.2539849
@@ -8862,7 +8862,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f79b"),
 		"datum" : ISODate("2024-09-04T04:35:04Z"),
-		"brzina" : 78,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1128766,
 			48.2530333
@@ -8872,7 +8872,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f79c"),
 		"datum" : ISODate("2024-09-04T04:35:44Z"),
-		"brzina" : 99,
+		"brzina" : 90,
 		"koordinate" : [
 			12.1001316,
 			48.2498216
@@ -8882,7 +8882,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f79d"),
 		"datum" : ISODate("2024-09-04T04:36:22Z"),
-		"brzina" : 94,
+		"brzina" : 90,
 		"koordinate" : [
 			12.08644,
 			48.24872
@@ -8902,7 +8902,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f79f"),
 		"datum" : ISODate("2024-09-04T04:37:40Z"),
-		"brzina" : 99,
+		"brzina" : 90,
 		"koordinate" : [
 			12.0589766,
 			48.2480199
@@ -8912,7 +8912,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7a0"),
 		"datum" : ISODate("2024-09-04T04:38:17Z"),
-		"brzina" : 100,
+		"brzina" : 90,
 		"koordinate" : [
 			12.0452216,
 			48.2473783
@@ -8922,7 +8922,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7a1"),
 		"datum" : ISODate("2024-09-04T04:38:55Z"),
-		"brzina" : 97,
+		"brzina" : 90,
 		"koordinate" : [
 			12.0315699,
 			48.246075
@@ -8932,7 +8932,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7a2"),
 		"datum" : ISODate("2024-09-04T04:39:35Z"),
-		"brzina" : 86,
+		"brzina" : 90,
 		"koordinate" : [
 			12.0184816,
 			48.2433733
@@ -9002,7 +9002,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7a9"),
 		"datum" : ISODate("2024-09-04T04:44:24Z"),
-		"brzina" : 86,
+		"brzina" : 90,
 		"koordinate" : [
 			11.9417216,
 			48.209445
@@ -9012,7 +9012,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7aa"),
 		"datum" : ISODate("2024-09-04T04:45:03Z"),
-		"brzina" : 103,
+		"brzina" : 90,
 		"koordinate" : [
 			11.9318016,
 			48.203285
@@ -9022,7 +9022,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ab"),
 		"datum" : ISODate("2024-09-04T04:45:38Z"),
-		"brzina" : 103,
+		"brzina" : 90,
 		"koordinate" : [
 			11.9249083,
 			48.1955316
@@ -9032,7 +9032,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ac"),
 		"datum" : ISODate("2024-09-04T04:46:15Z"),
-		"brzina" : 97,
+		"brzina" : 90,
 		"koordinate" : [
 			11.9183583,
 			48.1875966
@@ -9042,7 +9042,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ad"),
 		"datum" : ISODate("2024-09-04T04:46:55Z"),
-		"brzina" : 84,
+		"brzina" : 90,
 		"koordinate" : [
 			11.90889,
 			48.1809016
@@ -9052,7 +9052,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ae"),
 		"datum" : ISODate("2024-09-04T04:47:36Z"),
-		"brzina" : 87,
+		"brzina" : 90,
 		"koordinate" : [
 			11.8988783,
 			48.1746766
@@ -9102,7 +9102,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b3"),
 		"datum" : ISODate("2024-09-04T04:51:04Z"),
-		"brzina" : 48,
+		"brzina" : 90,
 		"koordinate" : [
 			11.8361283,
 			48.1599
@@ -9112,7 +9112,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b4"),
 		"datum" : ISODate("2024-09-04T04:52:04Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			11.834315,
 			48.1595983
@@ -9122,7 +9122,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b5"),
 		"datum" : ISODate("2024-09-04T04:53:05Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			11.834315,
 			48.1595983
@@ -9132,7 +9132,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b6"),
 		"datum" : ISODate("2024-09-04T04:54:05Z"),
-		"brzina" : 70,
+		"brzina" : 90,
 		"koordinate" : [
 			11.8286283,
 			48.1582016
@@ -9142,7 +9142,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b7"),
 		"datum" : ISODate("2024-09-04T04:54:50Z"),
-		"brzina" : 75,
+		"brzina" : 90,
 		"koordinate" : [
 			11.81654,
 			48.1539999
@@ -9152,7 +9152,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b8"),
 		"datum" : ISODate("2024-09-04T04:55:36Z"),
-		"brzina" : 84,
+		"brzina" : 90,
 		"koordinate" : [
 			11.8038999,
 			48.1506966
@@ -9162,7 +9162,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7b9"),
 		"datum" : ISODate("2024-09-04T04:56:20Z"),
-		"brzina" : 66,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7902633,
 			48.1498983
@@ -9172,7 +9172,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ba"),
 		"datum" : ISODate("2024-09-04T04:57:08Z"),
-		"brzina" : 78,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7782499,
 			48.1454466
@@ -9182,7 +9182,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7bb"),
 		"datum" : ISODate("2024-09-04T04:57:55Z"),
-		"brzina" : 73,
+		"brzina" : 90,
 		"koordinate" : [
 			11.76529,
 			48.1425333
@@ -9202,7 +9202,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7bd"),
 		"datum" : ISODate("2024-09-04T04:59:22Z"),
-		"brzina" : 95,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7380416,
 			48.143115
@@ -9212,7 +9212,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7be"),
 		"datum" : ISODate("2024-09-04T05:00:01Z"),
-		"brzina" : 95,
+		"brzina" : 93,
 		"koordinate" : [
 			11.7245133,
 			48.14229
@@ -9222,7 +9222,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7bf"),
 		"datum" : ISODate("2024-09-04T05:00:42Z"),
-		"brzina" : 56,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7108666,
 			48.1424083
@@ -9232,7 +9232,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c0"),
 		"datum" : ISODate("2024-09-04T05:00:55Z"),
-		"brzina" : 38,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7090683,
 			48.1431566
@@ -9242,7 +9242,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c1"),
 		"datum" : ISODate("2024-09-04T05:01:05Z"),
-		"brzina" : 8,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7084783,
 			48.1429549
@@ -9252,7 +9252,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c2"),
 		"datum" : ISODate("2024-09-04T05:02:01Z"),
-		"brzina" : 59,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7071966,
 			48.1494283
@@ -9262,7 +9262,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c3"),
 		"datum" : ISODate("2024-09-04T05:03:00Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			11.710025,
 			48.152825
@@ -9272,7 +9272,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c4"),
 		"datum" : ISODate("2024-09-04T05:04:01Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7100266,
 			48.1528283
@@ -9282,7 +9282,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c5"),
 		"datum" : ISODate("2024-09-04T05:05:01Z"),
-		"brzina" : 66,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7151599,
 			48.1549666
@@ -9292,7 +9292,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c6"),
 		"datum" : ISODate("2024-09-04T05:05:55Z"),
-		"brzina" : 75,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7271416,
 			48.1594183
@@ -9302,7 +9302,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c7"),
 		"datum" : ISODate("2024-09-04T05:06:51Z"),
-		"brzina" : 69,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7343716,
 			48.1672033
@@ -9312,7 +9312,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c8"),
 		"datum" : ISODate("2024-09-04T05:07:22Z"),
-		"brzina" : 31,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7406983,
 			48.1693866
@@ -9322,7 +9322,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7c9"),
 		"datum" : ISODate("2024-09-04T05:07:34Z"),
-		"brzina" : 38,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7416083,
 			48.1683433
@@ -9332,7 +9332,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ca"),
 		"datum" : ISODate("2024-09-04T05:07:39Z"),
-		"brzina" : 38,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7412366,
 			48.167935
@@ -9342,7 +9342,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7cb"),
 		"datum" : ISODate("2024-09-04T05:07:44Z"),
-		"brzina" : 39,
+		"brzina" : 90,
 		"koordinate" : [
 			11.740485,
 			48.1680016
@@ -9352,7 +9352,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7cc"),
 		"datum" : ISODate("2024-09-04T05:08:34Z"),
-		"brzina" : 80,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7326316,
 			48.1754549
@@ -9362,7 +9362,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7cd"),
 		"datum" : ISODate("2024-09-04T05:09:31Z"),
-		"brzina" : 68,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7238266,
 			48.1823866
@@ -9372,7 +9372,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ce"),
 		"datum" : ISODate("2024-09-04T05:10:27Z"),
-		"brzina" : 73,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7130866,
 			48.1878566
@@ -9382,7 +9382,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7cf"),
 		"datum" : ISODate("2024-09-04T05:11:24Z"),
-		"brzina" : 72,
+		"brzina" : 90,
 		"koordinate" : [
 			11.7007566,
 			48.1917
@@ -9392,7 +9392,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7d0"),
 		"datum" : ISODate("2024-09-04T05:12:16Z"),
-		"brzina" : 66,
+		"brzina" : 90,
 		"koordinate" : [
 			11.68775,
 			48.19439
@@ -9402,7 +9402,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7d1"),
 		"datum" : ISODate("2024-09-04T05:13:16Z"),
-		"brzina" : 69,
+		"brzina" : 90,
 		"koordinate" : [
 			11.6774283,
 			48.1969549
@@ -9412,7 +9412,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7d2"),
 		"datum" : ISODate("2024-09-04T05:14:01Z"),
-		"brzina" : 86,
+		"brzina" : 90,
 		"koordinate" : [
 			11.6652549,
 			48.2009766
@@ -9442,7 +9442,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7d5"),
 		"datum" : ISODate("2024-09-04T05:16:03Z"),
-		"brzina" : 85,
+		"brzina" : 90,
 		"koordinate" : [
 			11.6342649,
 			48.2186049
@@ -9462,7 +9462,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7d7"),
 		"datum" : ISODate("2024-09-04T05:17:24Z"),
-		"brzina" : 100,
+		"brzina" : 95,
 		"koordinate" : [
 			11.6102333,
 			48.2273666
@@ -9502,7 +9502,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7db"),
 		"datum" : ISODate("2024-09-04T05:19:56Z"),
-		"brzina" : 92,
+		"brzina" : 100,
 		"koordinate" : [
 			11.5553199,
 			48.2268266
@@ -9512,7 +9512,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7dc"),
 		"datum" : ISODate("2024-09-04T05:20:36Z"),
-		"brzina" : 87,
+		"brzina" : 100,
 		"koordinate" : [
 			11.5415799,
 			48.2262716
@@ -9522,7 +9522,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7dd"),
 		"datum" : ISODate("2024-09-04T05:21:17Z"),
-		"brzina" : 93,
+		"brzina" : 100,
 		"koordinate" : [
 			11.5281066,
 			48.2243283
@@ -9532,7 +9532,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7de"),
 		"datum" : ISODate("2024-09-04T05:21:56Z"),
-		"brzina" : 95,
+		"brzina" : 100,
 		"koordinate" : [
 			11.5150966,
 			48.2207583
@@ -9542,7 +9542,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7df"),
 		"datum" : ISODate("2024-09-04T05:22:36Z"),
-		"brzina" : 93,
+		"brzina" : 100,
 		"koordinate" : [
 			11.5036433,
 			48.2155816
@@ -9552,7 +9552,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e0"),
 		"datum" : ISODate("2024-09-04T05:23:16Z"),
-		"brzina" : 89,
+		"brzina" : 100,
 		"koordinate" : [
 			11.4928583,
 			48.2100966
@@ -9572,7 +9572,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e2"),
 		"datum" : ISODate("2024-09-04T05:24:37Z"),
-		"brzina" : 78,
+		"brzina" : 98,
 		"koordinate" : [
 			11.46565,
 			48.2093433
@@ -9582,7 +9582,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e3"),
 		"datum" : ISODate("2024-09-04T05:25:29Z"),
-		"brzina" : 77,
+		"brzina" : 100,
 		"koordinate" : [
 			11.453515,
 			48.2048466
@@ -9612,7 +9612,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e6"),
 		"datum" : ISODate("2024-09-04T05:27:19Z"),
-		"brzina" : 82,
+		"brzina" : 102,
 		"koordinate" : [
 			11.43665,
 			48.187375
@@ -9622,7 +9622,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e7"),
 		"datum" : ISODate("2024-09-04T05:28:01Z"),
-		"brzina" : 91,
+		"brzina" : 100,
 		"koordinate" : [
 			11.4305183,
 			48.1792216
@@ -9632,7 +9632,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e8"),
 		"datum" : ISODate("2024-09-04T05:28:43Z"),
-		"brzina" : 79,
+		"brzina" : 100,
 		"koordinate" : [
 			11.42178,
 			48.1721683
@@ -9642,7 +9642,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7e9"),
 		"datum" : ISODate("2024-09-04T05:29:43Z"),
-		"brzina" : 0,
+		"brzina" : 100,
 		"koordinate" : [
 			11.41879,
 			48.1699849
@@ -9652,7 +9652,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ea"),
 		"datum" : ISODate("2024-09-04T05:30:36Z"),
-		"brzina" : 66,
+		"brzina" : 100,
 		"koordinate" : [
 			11.4017333,
 			48.1572833
@@ -9662,7 +9662,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7eb"),
 		"datum" : ISODate("2024-09-04T05:31:26Z"),
-		"brzina" : 86,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3943583,
 			48.1495133
@@ -9672,7 +9672,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ec"),
 		"datum" : ISODate("2024-09-04T05:32:11Z"),
-		"brzina" : 78,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3958933,
 			48.1404266
@@ -9682,7 +9682,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ed"),
 		"datum" : ISODate("2024-09-04T05:32:55Z"),
-		"brzina" : 85,
+		"brzina" : 100,
 		"koordinate" : [
 			11.4004716,
 			48.1318783
@@ -9692,7 +9692,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ee"),
 		"datum" : ISODate("2024-09-04T05:33:44Z"),
-		"brzina" : 83,
+		"brzina" : 100,
 		"koordinate" : [
 			11.4007333,
 			48.1228683
@@ -9702,7 +9702,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ef"),
 		"datum" : ISODate("2024-09-04T05:34:28Z"),
-		"brzina" : 85,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3893433,
 			48.1179666
@@ -9722,7 +9722,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f1"),
 		"datum" : ISODate("2024-09-04T05:36:10Z"),
-		"brzina" : 0,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3679916,
 			48.1162466
@@ -9732,7 +9732,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f2"),
 		"datum" : ISODate("2024-09-04T05:36:12Z"),
-		"brzina" : 88,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3557033,
 			48.1126099
@@ -9742,7 +9742,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f3"),
 		"datum" : ISODate("2024-09-04T05:36:52Z"),
-		"brzina" : 90,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3439049,
 			48.1081116
@@ -9752,7 +9752,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f4"),
 		"datum" : ISODate("2024-09-04T05:37:32Z"),
-		"brzina" : 92,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3352033,
 			48.1011316
@@ -9762,7 +9762,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f5"),
 		"datum" : ISODate("2024-09-04T05:38:14Z"),
-		"brzina" : 94,
+		"brzina" : 100,
 		"koordinate" : [
 			11.323185,
 			48.0969349
@@ -9772,7 +9772,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f6"),
 		"datum" : ISODate("2024-09-04T05:38:51Z"),
-		"brzina" : 94,
+		"brzina" : 100,
 		"koordinate" : [
 			11.3096083,
 			48.0964516
@@ -9782,7 +9782,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f7"),
 		"datum" : ISODate("2024-09-04T05:39:31Z"),
-		"brzina" : 86,
+		"brzina" : 96,
 		"koordinate" : [
 			11.2967683,
 			48.0936983
@@ -9792,7 +9792,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f8"),
 		"datum" : ISODate("2024-09-04T05:40:15Z"),
-		"brzina" : 81,
+		"brzina" : 96,
 		"koordinate" : [
 			11.2831033,
 			48.0933233
@@ -9802,7 +9802,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7f9"),
 		"datum" : ISODate("2024-09-04T05:41:01Z"),
-		"brzina" : 81,
+		"brzina" : 96,
 		"koordinate" : [
 			11.2696366,
 			48.0928566
@@ -9812,7 +9812,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7fa"),
 		"datum" : ISODate("2024-09-04T05:41:47Z"),
-		"brzina" : 84,
+		"brzina" : 96,
 		"koordinate" : [
 			11.2559133,
 			48.0920066
@@ -9822,7 +9822,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7fb"),
 		"datum" : ISODate("2024-09-04T05:42:31Z"),
-		"brzina" : 81,
+		"brzina" : 96,
 		"koordinate" : [
 			11.2423383,
 			48.0928699
@@ -9832,7 +9832,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7fc"),
 		"datum" : ISODate("2024-09-04T05:43:16Z"),
-		"brzina" : 84,
+		"brzina" : 94,
 		"koordinate" : [
 			11.2301666,
 			48.0885416
@@ -9842,7 +9842,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7fd"),
 		"datum" : ISODate("2024-09-04T05:43:59Z"),
-		"brzina" : 85,
+		"brzina" : 95,
 		"koordinate" : [
 			11.2168733,
 			48.0867866
@@ -9862,7 +9862,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f7ff"),
 		"datum" : ISODate("2024-09-04T05:45:37Z"),
-		"brzina" : 94,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1827183,
 			48.0845366
@@ -9872,7 +9872,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f800"),
 		"datum" : ISODate("2024-09-04T05:46:18Z"),
-		"brzina" : 93,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1692,
 			48.0827249
@@ -9882,7 +9882,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f801"),
 		"datum" : ISODate("2024-09-04T05:46:57Z"),
-		"brzina" : 95,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1559783,
 			48.085005
@@ -9902,7 +9902,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f803"),
 		"datum" : ISODate("2024-09-04T05:48:14Z"),
-		"brzina" : 94,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1303583,
 			48.0787983
@@ -9912,7 +9912,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f804"),
 		"datum" : ISODate("2024-09-04T05:48:54Z"),
-		"brzina" : 92,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1165483,
 			48.0777866
@@ -9922,7 +9922,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f805"),
 		"datum" : ISODate("2024-09-04T05:49:35Z"),
-		"brzina" : 92,
+		"brzina" : 100,
 		"koordinate" : [
 			11.1032933,
 			48.0755066
@@ -9932,7 +9932,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f806"),
 		"datum" : ISODate("2024-09-04T05:50:15Z"),
-		"brzina" : 92,
+		"brzina" : 100,
 		"koordinate" : [
 			11.0898916,
 			48.0739066
@@ -9982,7 +9982,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f80b"),
 		"datum" : ISODate("2024-09-04T05:53:31Z"),
-		"brzina" : 81,
+		"brzina" : 92,
 		"koordinate" : [
 			11.0250083,
 			48.0680933
@@ -9992,7 +9992,7 @@
 	{
 		"_id" : ObjectId("66d81248db75ec9e2f80f80c"),
 		"datum" : ISODate("2024-09-04T05:54:18Z"),
-		"brzina" : 83,
+		"brzina" : 92,
 		"koordinate" : [
 			11.0119183,
 			48.0658133
@@ -10002,7 +10002,7 @@
 	{
 		"_id" : ObjectId("66d812fb5916f85a5ad86f96"),
 		"datum" : ISODate("2024-09-03T09:12:54Z"),
-		"brzina" : 0,
+		"brzina" : 90,
 		"koordinate" : [
 			20.7367066,
 			44.7585533
